@@ -34,8 +34,8 @@ A [constant function][constant-function] is a `function` whose output value is t
 
 ## Installation
 
-``` bash
-$ npm install @stdlib/utils-constant-function
+```bash
+npm install @stdlib/utils-constant-function
 ```
 
 </section>
