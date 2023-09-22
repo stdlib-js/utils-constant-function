@@ -50,6 +50,11 @@ A [constant function][constant-function] is a `function` whose output value is t
 ## Usage
 
 ```javascript
+import constantFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constant-function@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-constant-function/tags). For example,
+
+```javascript
 import constantFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constant-function@v0.1.0-deno/mod.js';
 ```
 
@@ -97,7 +102,7 @@ v = fcn();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import constantFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constant-function@v0.1.0-deno/mod.js';
+import constantFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constant-function@deno/mod.js';
 
 var bool;
 var fcn;
