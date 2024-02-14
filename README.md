@@ -50,7 +50,7 @@ A [constant function][constant-function] is a `function` whose output value is t
 ## Usage
 
 ```javascript
-import constantFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constant-function@deno/mod.js';
+import constantFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constant-function@v0.2.0-deno/mod.js';
 ```
 
 #### constantFunction( x )
@@ -97,7 +97,7 @@ v = fcn();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import constantFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constant-function@deno/mod.js';
+import constantFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constant-function@v0.2.0-deno/mod.js';
 
 var bool;
 var fcn;
