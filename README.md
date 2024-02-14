@@ -50,7 +50,7 @@ A [constant function][constant-function] is a `function` whose output value is t
 ## Usage
 
 ```javascript
-import constantFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constant-function@esm/index.mjs';
+import constantFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constant-function@v0.2.0-esm/index.mjs';
 ```
 
 #### constantFunction( x )
@@ -102,7 +102,7 @@ v = fcn();
 <body>
 <script type="module">
 
-import constantFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constant-function@esm/index.mjs';
+import constantFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constant-function@v0.2.0-esm/index.mjs';
 
 var bool;
 var fcn;
